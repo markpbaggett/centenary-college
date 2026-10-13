@@ -4,6 +4,14 @@ collection:
 metadata:
   - mediatype
   - collection
+  - subject
+  - shiptracking
+  - scandate
+  - operator
+  - contributor
+  - sponsor
+  - ppi
+  - date
 featured:
   - https://iiif.archive.org/iiif/cclabasketballprogram19761204/manifest.json
 search:
